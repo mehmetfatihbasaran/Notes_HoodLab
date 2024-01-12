@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685027291028",
+    "project_id": "notes-hoodlab",
+    "storage_bucket": "notes-hoodlab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685027291028:android:244a62d762c80d42702981",
+        "android_client_info": {
+          "package_name": "com.example.notes_hoodlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685027291028-qa2256rqu66434g5vc5dp50r1f9vc3j4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASn5xP56JAk81zWr8c6zvoBfGYlaVyNp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685027291028-qa2256rqu66434g5vc5dp50r1f9vc3j4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+
+kotlin:S65327"iReplace this if expression with require(validateSignupForm()) { "email and password must not be empty" }.(ρΧωÿÿÿÿ8ό“έτ 1
+¬kotlin:S6532;"‡Replace this if expression with require(loginUiState.passwordSignUp == loginUiState.confirmPasswordSignUp) { "password do not match" }.(ή°θνϊÿÿÿÿ8ό“έτ 1
+kotlin:S6532V"iReplace this if expression with require(validateSignupForm()) { "email and password must not be empty" }.(ρΧωÿÿÿÿ8ό“έτ 1
+Tkotlin:S1144/"6Remove this unused private "validateLoginForm" method.(ΡΣ¤a8€”έτ 1
